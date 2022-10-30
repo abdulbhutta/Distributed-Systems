@@ -1,5 +1,5 @@
-<h3>Lab 03 Video Links</h3>
-<h2>Note: Must be logged into your OnTech Google account to access the videos</h2>
+<h2>Lab 03 Video Links</h2>
+<h3>Note: Must be logged into your OnTech Google account to access the videos</h3>
 
 Link for Part 2 & 3: https://drive.google.com/file/d/1jRT3iKXJK7IwSnUlRnr8H0m8zmN8lYN9/view?usp=share_link
 
